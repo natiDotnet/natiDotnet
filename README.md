@@ -61,8 +61,8 @@ Developed a system to integrate **Tailwind CSS-like styling** in **.NET MAUI**, 
 ---
 
 ## Get in Touch
-- 💼 [LinkedIn](#)
-- 📧 [Email](#)
-- 🌐 [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/natidotnet)
+- 📧 [Email](natidotnet@gmail.com)
+- 🌐 [Portfolio](https://nati-net-portfolio.vercel.app/en)
 
 Feel free to explore my repositories and connect with me for collaborations or discussions. Let's build something amazing together! 🚀
