@@ -4,7 +4,7 @@
 I'm a **professional C# developer** with extensive experience in building robust and scalable applications using the .NET ecosystem. My passion lies in creating clean, maintainable, and efficient code, whether it's for web, desktop, or mobile applications. I enjoy learning new technologies and contributing to projects that make a difference.
 
 - 🌍 From: **Ethiopia**
-- 💻 Languages: **C#**, **.NET**, **Java**, **Angular**, and **Flutter**
+- 💻 Languages: **C#**, **.NET**, **Java**, and **Angular**
 - 🌟 Interests: Software Localization, Utility-Based Design, and Open Source Contributions
 - 🛠️ Tools & Frameworks: **.NET Core**, **.NET MAUI**, **Entity Framework Core**, **ASP.NET**, **Angular**
 
